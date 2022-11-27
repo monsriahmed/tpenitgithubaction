@@ -5,7 +5,7 @@ from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 import json
 from dotenv import load_dotenv
 import os
-
+#!!!
 
 def configure():
     load_dotenv()
